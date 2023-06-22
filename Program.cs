@@ -3,7 +3,7 @@ using System;
 namespace ProGit {
   class Program {
     static void main(string[] args) {
-      Console.WriteLine("Hello World");
+      Console.WriteLine("Hello World")
     }
   }
 }
